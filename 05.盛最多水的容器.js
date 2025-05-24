@@ -15,8 +15,9 @@ var maxArea = function (height) {
     } else {
       right--;
     }
-  } `  +
-   `
+  }
+  `  +
+   `;
   return maxRongl;
 };
 function main() {
